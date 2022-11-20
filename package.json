@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "yarn": "^1.22.19"
+  },
+  "name": "TDR_wiki",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "wiki.tctdr.tk",
+  "author": "yms",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.9.7"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+
+}
