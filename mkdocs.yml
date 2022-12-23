@@ -78,7 +78,7 @@ extra:
   social:
     - icon: fontawesome/brands/qq
       link: https://jq.qq.com/?_wv=1027&k=AclOw9Bg
-      name: TCR服务器QQ群
+      name: TDR服务器QQ群
   generator: false
 
 
@@ -86,13 +86,13 @@ plugins:
   - tags
   - search
 
-repo_url: https://github.com/hiyms/TCweb
-repo_name: hiyms/TCweb
+repo_url: https://github.com/hiyms/tdrwiki
+repo_name: hiyms/tdrwiki
 edit_uri: edit/master/docs/
 copyright: Copyright &copy; 2022 TDR服务器社区
 
-extra_css:
-  - stylesheets/extra.css
+# extra_css:
+  # - stylesheets/extra.css
 
 nav:
   - 家: ./index.md
